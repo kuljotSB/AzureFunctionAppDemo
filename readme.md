@@ -4,7 +4,7 @@
 **Udemy Profile:** [View Kuljot's Udemy Profile](https://www.udemy.com/user/kuljot-singh-bakshi/)  
 **Website:** [Visit Kuljot's Website](https://www.learnwithmsingh.com/)
 
-![About Me](./Assets/kuljot-about-me.png)
+![About Me](./Assets/kuljot-about-me-changed.png)
 
 ---
 
