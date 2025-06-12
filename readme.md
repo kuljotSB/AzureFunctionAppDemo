@@ -19,7 +19,7 @@ This lab demonstrates how to build an Azure Function App with a queue-based trig
 1. **Visual Studio Code**  
 2. **.NET SDK**  
     - Check installation: `dotnet --version`
-    - [Download .NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.301-windows-x64-installer)
+    - [Download .NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ---
 
